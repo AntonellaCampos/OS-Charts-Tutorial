@@ -1,2 +1,2 @@
-# OS-Charts-Tutorial
+# iOS-Charts-Tutorial
 Creating Charts
